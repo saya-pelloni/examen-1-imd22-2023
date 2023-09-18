@@ -29,7 +29,7 @@ Le travail se fait uniquement durant les périodes de frontend development, et p
 1. Créez un fork du repository et clonez-le sur votre ordinateur.
 2. Dans Figma, allez sur l'équipe _Eikon - IMD22_, puis dans le projet _FD-02-Examen-1_. Faites un clic droit sur le fichier _Examen 1 - IMD22_, puis cliquer sur dupliquer. Vous pouvez ensuite accéder au fichier dans votre dossier _Drafts_.
 3. Intégrez la maquette, en faisant régulièrement des commits.
-4. Une fois l'intégration terminée, publiez votre site sur votre hébergement, dans un sous-dossier _film-festival_
+4. Une fois l'intégration terminée, publiez votre site sur votre hébergement, dans un sous-dossier _transform_
 5. Faites finalement une pull request
 
 ## Objectifs avancés
