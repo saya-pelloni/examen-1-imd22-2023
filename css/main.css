@@ -23,6 +23,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+  max-width: 320px;
 }
 
 a {
@@ -34,4 +35,39 @@ video {
   max-inline-size: 100%;
   block-size: auto;
   vertical-align: text-top;
+}
+
+h1 {
+  font-family: Nunito Sans;
+  font-size: 50px;
+  text-transform: uppercase;
+  font-weight: 800;
+  line-height: 50px;
+}
+
+.violet-part {
+  background-color: #d7a1fd;
+}
+
+h2 {
+  color: white;
+  font-family: Noto Serif;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+}
+
+nav {
+  background-color: black;
+  color: white;
+  justify-content: space-around;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  font-family: Noto Serif;
+  font-weight: 300;
+  font-size: 50px;
+  text-transform: uppercase;
 }
