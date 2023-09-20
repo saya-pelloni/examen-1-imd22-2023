@@ -23,7 +23,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  max-width: 320px;
+  max-width: 330px;
 }
 
 a {
@@ -39,12 +39,17 @@ video {
 
 h1 {
   font-family: Nunito Sans;
-  font-size: 50px;
+  font-size: 35px;
   text-transform: uppercase;
   font-weight: 800;
   line-height: 50px;
 }
 
+strong {
+  font-family: Noto Serif;
+  font-size: 50px;
+  font-weight: 300;
+}
 .violet-part {
   background-color: #d7a1fd;
 }
@@ -55,6 +60,8 @@ h2 {
   font-size: 20px;
   font-weight: 300;
   text-align: center;
+  line-height: 24px;
+  padding: 15px;
 }
 
 nav {
@@ -62,12 +69,59 @@ nav {
   color: white;
   justify-content: space-around;
   text-align: center;
+  font-weight: 300;
+  font-size: 15px;
+  padding: 20px;
+  font-family: Noto Serif;
 }
 
 h3 {
   text-align: center;
   font-family: Noto Serif;
   font-weight: 300;
-  font-size: 50px;
+  font-size: 40px;
   text-transform: uppercase;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.desir-marea {
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-left: 1px solid #000;
+  padding-bottom: 40px;
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: center;
+  font-family: Noto Serif;
+  font-size: 15px;
+  font-weight: 300;
+  padding-top: 20px;
+}
+
+.photo-pink-border {
+  border-color: #d7a1fd;
+}
+
+h4 {
+  text-align: center;
+  font-family: Nunito Sans;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800;
+  margin-top: 15px;
+}
+
+.bouton-purpel {
+  color: #d7a1fd;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 800;
+  background: black;
 }
